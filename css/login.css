@@ -1,0 +1,22 @@
+:root {
+    --color1: #f39814;
+    --color2: #efba93;
+    --color3: #0b046c;
+    --color4: #6960ae;
+    --color5: #b2a9d3;
+}
+
+body{
+    background: var(--color1);
+    background: linear-gradient(to right, #f39814, #efba93)
+}
+
+
+.bg{
+    background-image: url(../scr/LOGIN.png);
+    background-position: center center;
+}
+
+.link{
+    text-decoration: none;
+}
